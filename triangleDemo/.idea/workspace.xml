@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34c7ac62-78e4-4ae3-9fee-2d68c028e001" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UdLpc9MqXQnPgDkQCIxUkVjOhA" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ecarx\02-Workspace\34-MachineLearningWorkspace\triangleDemo\venv\python100days\Day61-65\project_of_tornado" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ecarx\02-Workspace\34-MachineLearningWorkspace\triangleDemo\venv\python100days\Day66-75\image360" />
+      <recent name="D:\Ecarx\02-Workspace\34-MachineLearningWorkspace\triangleDemo\venv\python100days\Day66-75\Douban" />
+      <recent name="D:\Ecarx\02-Workspace\34-MachineLearningWorkspace\triangleDemo\venv\python100days\Day61-65\project_of_tornado" />
+      <recent name="D:\Ecarx\02-Workspace\34-MachineLearningWorkspace\triangleDemo\venv\python100days\Day61-65\project_of_tornado\service" />
+      <recent name="D:\Ecarx\02-Workspace\34-MachineLearningWorkspace\triangleDemo\venv\python100days\Day61-65\hello-tornado" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.example06">
+    <configuration name="coroutine02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="triangleDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/python100days/Day66-75" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/python100days/Day66-75/coroutine02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="triangleDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/python100days/Day66-75" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/python100days/Day66-75/example03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="triangleDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/python100days/Day66-75" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/python100days/Day66-75/example04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="triangleDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/python100days/Day66-75" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/python100days/Day66-75/example05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="triangleDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\PycharmProjects\python1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/python100days/Day66-75" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/python100days/Day66-75/example06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example06" />
+        <item itemvalue="Python.example05" />
+        <item itemvalue="Python.example04" />
+        <item itemvalue="Python.example03" />
+        <item itemvalue="Python.coroutine02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34c7ac62-78e4-4ae3-9fee-2d68c028e001" name="Default Changelist" comment="" />
+      <created>1554807261475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554807261475</updated>
+      <workItem from="1554807264580" duration="629000" />
+      <workItem from="1554953511712" duration="1828000" />
+      <workItem from="1555493191169" duration="1207000" />
+      <workItem from="1555499327707" duration="514000" />
+      <workItem from="1555499862791" duration="845000" />
+      <workItem from="1555501471792" duration="2431000" />
+      <workItem from="1555672641149" duration="597000" />
+      <workItem from="1562398167067" duration="1857000" />
+      <workItem from="1562678919768" duration="1399000" />
+      <workItem from="1562846654667" duration="597000" />
+      <workItem from="1563267682035" duration="33428000" />
+      <workItem from="1564098708198" duration="7277000" />
+      <workItem from="1564361080615" duration="2076000" />
+      <workItem from="1564583501745" duration="5455000" />
+      <workItem from="1564934994192" duration="16494000" />
+      <workItem from="1565837091574" duration="1472000" />
+      <workItem from="1566384936970" duration="586000" />
+      <workItem from="1566963404253" duration="599000" />
+      <workItem from="1568108236920" duration="302000" />
+      <workItem from="1568631635459" duration="1076000" />
+      <workItem from="1569098749476" duration="2938000" />
+      <workItem from="1569469907275" duration="1502000" />
+      <workItem from="1569681021235" duration="1214000" />
+      <workItem from="1570193195787" duration="8603000" />
+      <workItem from="1570700351047" duration="840000" />
+      <workItem from="1570798052459" duration="18873000" />
+      <workItem from="1572227088610" duration="5772000" />
+      <workItem from="1572489257334" duration="533000" />
+      <workItem from="1572593704713" duration="593000" />
+      <workItem from="1572865018776" duration="1114000" />
+      <workItem from="1573039491136" duration="16298000" />
+      <workItem from="1573183131150" duration="1484000" />
+      <workItem from="1573205792505" duration="4536000" />
+      <workItem from="1573460657705" duration="12025000" />
+      <workItem from="1573798084117" duration="6748000" />
+      <workItem from="1574095283795" duration="14589000" />
+      <workItem from="1574851761701" duration="35370000" />
+      <workItem from="1575254132723" duration="6035000" />
+      <workItem from="1575336821823" duration="16662000" />
+      <workItem from="1575423100577" duration="26109000" />
+      <workItem from="1575681711353" duration="4183000" />
+      <workItem from="1580550103740" duration="96000" />
+      <workItem from="1580550988395" duration="1823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/triangleDemo$timeserver.coverage" NAME="timeserver Coverage Results" MODIFIED="1574249056834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example09.coverage" NAME="example09 Coverage Results" MODIFIED="1574993914057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$set2.coverage" NAME="set2 Coverage Results" MODIFIED="1565063737983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$variable4.coverage" NAME="variable4 Coverage Results" MODIFIED="1563675297324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$prime.coverage" NAME="prime Coverage Results" MODIFIED="1564098940151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$function1.coverage" NAME="function1 Coverage Results" MODIFIED="1564099254965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day06" />
+    <SUITE FILE_PATH="coverage/triangleDemo$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1563684061522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$drawsquare.coverage" NAME="drawsquare Coverage Results" MODIFIED="1562398890527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/triangleDemo$file3.coverage" NAME="file3 Coverage Results" MODIFIED="1573111814266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$asyncio01.coverage" NAME="asyncio01 Coverage Results" MODIFIED="1575535216940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$drawsquare2.coverage" NAME="drawsquare2 Coverage Results" MODIFIED="1562399442524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for3.coverage" NAME="for3 Coverage Results" MODIFIED="1563685679675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example18.coverage" NAME="example18 Coverage Results" MODIFIED="1575021376056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$peppa_pig.coverage" NAME="peppa_pig Coverage Results" MODIFIED="1563621025212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day01" />
+    <SUITE FILE_PATH="coverage/triangleDemo$chicken.coverage" NAME="chicken Coverage Results" MODIFIED="1563698901750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$access.coverage" NAME="access Coverage Results" MODIFIED="1565420581724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1573118406935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day12" />
+    <SUITE FILE_PATH="coverage/triangleDemo$homework01.coverage" NAME="homework01 Coverage Results" MODIFIED="1575297051653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day31-35" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example21.coverage" NAME="example21 Coverage Results" MODIFIED="1575026863415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$coroutine02.coverage" NAME="coroutine02 Coverage Results" MODIFIED="1575544969654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example_of_coroutine.coverage" NAME="example_of_coroutine Coverage Results" MODIFIED="1575516401116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day61-65/hello-tornado" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example03.coverage" NAME="example03 Coverage Results" MODIFIED="1575613230964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$json1.coverage" NAME="json1 Coverage Results" MODIFIED="1573112928203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$coroutine1.coverage" NAME="coroutine1 Coverage Results" MODIFIED="1575544075680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$piecewise.coverage" NAME="piecewise Coverage Results" MODIFIED="1563683381263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multithread5.coverage" NAME="multithread5 Coverage Results" MODIFIED="1573731271766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$word2.coverage" NAME="word2 Coverage Results" MODIFIED="1574258435839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day15" />
+    <SUITE FILE_PATH="coverage/triangleDemo$function6.coverage" NAME="function6 Coverage Results" MODIFIED="1564191219977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day06" />
+    <SUITE FILE_PATH="coverage/triangleDemo$singlethread2.coverage" NAME="singlethread2 Coverage Results" MODIFIED="1573798931793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for2.coverage" NAME="for2 Coverage Results" MODIFIED="1563685529384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$json2.coverage" NAME="json2 Coverage Results" MODIFIED="1573113170906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1565236625426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example19.coverage" NAME="example19 Coverage Results" MODIFIED="1575023033313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$file2.coverage" NAME="file2 Coverage Results" MODIFIED="1573111527746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$yanghui.coverage" NAME="yanghui Coverage Results" MODIFIED="1565420357541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$list3.coverage" NAME="list3 Coverage Results" MODIFIED="1564586323736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example13.coverage" NAME="example13 Coverage Results" MODIFIED="1575013666295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$variable5.coverage" NAME="variable5 Coverage Results" MODIFIED="1563675570730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$mycal.coverage" NAME="mycal Coverage Results" MODIFIED="1575297896339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day31-35" />
+    <SUITE FILE_PATH="coverage/triangleDemo$marquee.coverage" NAME="marquee Coverage Results" MODIFIED="1564938305618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1573118538464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day12" />
+    <SUITE FILE_PATH="coverage/triangleDemo$verify.coverage" NAME="verify Coverage Results" MODIFIED="1563684737005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$grade.coverage" NAME="grade Coverage Results" MODIFIED="1563682395770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multithread6.coverage" NAME="multithread6 Coverage Results" MODIFIED="1573731895223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$function2.coverage" NAME="function2 Coverage Results" MODIFIED="1564099924185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day06" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multiprocess3.coverage" NAME="multiprocess3 Coverage Results" MODIFIED="1573651123185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example02.coverage" NAME="example02 Coverage Results" MODIFIED="1574930308252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$craps.coverage" NAME="craps Coverage Results" MODIFIED="1563724339731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multithread1.coverage" NAME="multithread1 Coverage Results" MODIFIED="1573714527267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1572001383718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/pytestpractice" />
+    <SUITE FILE_PATH="coverage/triangleDemo$while2.coverage" NAME="while2 Coverage Results" MODIFIED="1563698672828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$socket2.coverage" NAME="socket2 Coverage Results" MODIFIED="1574246579716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$Plot.coverage" NAME="Plot Coverage Results" MODIFIED="1571017847685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Corpus" />
+    <SUITE FILE_PATH="coverage/triangleDemo$socket5.coverage" NAME="socket5 Coverage Results" MODIFIED="1574247503591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$99multiplicationtable.coverage" NAME="99multiplicationtable Coverage Results" MODIFIED="1562679697387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/triangleDemo$chatclient.coverage" NAME="chatclient Coverage Results" MODIFIED="1573810419191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example23.coverage" NAME="example23 Coverage Results" MODIFIED="1575294622672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$scoretable.coverage" NAME="scoretable Coverage Results" MODIFIED="1564977036175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$centigrade.coverage" NAME="centigrade Coverage Results" MODIFIED="1563628007945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multiprocess4.coverage" NAME="multiprocess4 Coverage Results" MODIFIED="1573713669924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example17.coverage" NAME="example17 Coverage Results" MODIFIED="1575020820406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$clock.coverage" NAME="clock Coverage Results" MODIFIED="1565421845355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$asyncio1.coverage" NAME="asyncio1 Coverage Results" MODIFIED="1573118953615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$set1.coverage" NAME="set1 Coverage Results" MODIFIED="1564977405848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$dayofyear.coverage" NAME="dayofyear Coverage Results" MODIFIED="1575296437252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day31-35" />
+    <SUITE FILE_PATH="coverage/triangleDemo$generator1.coverage" NAME="generator1 Coverage Results" MODIFIED="1573211908949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$turtle1.coverage" NAME="turtle1 Coverage Results" MODIFIED="1573109265630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$excel1.coverage" NAME="excel1 Coverage Results" MODIFIED="1574257443925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day15" />
+    <SUITE FILE_PATH="coverage/triangleDemo$test_example02.coverage" NAME="test_example02 Coverage Results" MODIFIED="1575295951954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$sun_flower.coverage" NAME="sun_flower Coverage Results" MODIFIED="1563621776065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day01" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for5.coverage" NAME="for5 Coverage Results" MODIFIED="1563689557107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$dict1.coverage" NAME="dict1 Coverage Results" MODIFIED="1564194878020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$asyncio02.coverage" NAME="asyncio02 Coverage Results" MODIFIED="1575543794851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example_of_asyncio.coverage" NAME="example_of_asyncio Coverage Results" MODIFIED="1575458084023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day61-65/hello-tornado" />
+    <SUITE FILE_PATH="coverage/triangleDemo$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1573799740357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$circle.coverage" NAME="circle Coverage Results" MODIFIED="1565421178027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$variable2.coverage" NAME="variable2 Coverage Results" MODIFIED="1563674517359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example10.coverage" NAME="example10 Coverage Results" MODIFIED="1574995710214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$timeclient.coverage" NAME="timeclient Coverage Results" MODIFIED="1574247634507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1573110450256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$ti_tac_toe.coverage" NAME="ti-tac-toe Coverage Results" MODIFIED="1565236193582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$association.coverage" NAME="association Coverage Results" MODIFIED="1565442260091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day09" />
+    <SUITE FILE_PATH="coverage/triangleDemo$operator.coverage" NAME="operator Coverage Results" MODIFIED="1563673532402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$guess.coverage" NAME="guess Coverage Results" MODIFIED="1565422435091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example04.coverage" NAME="example04 Coverage Results" MODIFIED="1575613634798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multiprocess1.coverage" NAME="multiprocess1 Coverage Results" MODIFIED="1573212577478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$lottery.coverage" NAME="lottery Coverage Results" MODIFIED="1564588992016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1563682082163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$variable1.coverage" NAME="variable1 Coverage Results" MODIFIED="1563674378013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example06.coverage" NAME="example06 Coverage Results" MODIFIED="1575683386930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$examlple16.coverage" NAME="examlple16 Coverage Results" MODIFIED="1575017847253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1564403482570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example15.coverage" NAME="example15 Coverage Results" MODIFIED="1575015623131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$function4.coverage" NAME="function4 Coverage Results" MODIFIED="1564189219543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day06" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for6.coverage" NAME="for6 Coverage Results" MODIFIED="1563698490340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example_of_aiohttp.coverage" NAME="example_of_aiohttp Coverage Results" MODIFIED="1575457432558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day61-65/hello-tornado" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multithread3.coverage" NAME="multithread3 Coverage Results" MODIFIED="1573728335889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$dict2.coverage" NAME="dict2 Coverage Results" MODIFIED="1564201234686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$csv1.coverage" NAME="csv1 Coverage Results" MODIFIED="1573109496702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example24.coverage" NAME="example24 Coverage Results" MODIFIED="1575295017739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$socket3.coverage" NAME="socket3 Coverage Results" MODIFIED="1574246879590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$leapyear.coverage" NAME="leapyear Coverage Results" MODIFIED="1563673145786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$test_example01.coverage" NAME="test_example01 Coverage Results" MODIFIED="1575295580273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1573110975676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$tax.coverage" NAME="tax Coverage Results" MODIFIED="1563683816596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$chatserver.coverage" NAME="chatserver Coverage Results" MODIFIED="1574239287626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$rolldice.coverage" NAME="rolldice Coverage Results" MODIFIED="1563683391012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day03" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multithread2.coverage" NAME="multithread2 Coverage Results" MODIFIED="1573714995110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$gui1.coverage" NAME="gui1 Coverage Results" MODIFIED="1571820990688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$generator2.coverage" NAME="generator2 Coverage Results" MODIFIED="1573212092259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$str1.coverage" NAME="str1 Coverage Results" MODIFIED="1573115680937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day12" />
+    <SUITE FILE_PATH="coverage/triangleDemo$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1573112517296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$str2.coverage" NAME="str2 Coverage Results" MODIFIED="1573116596328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day12" />
+    <SUITE FILE_PATH="coverage/triangleDemo$perfect.coverage" NAME="perfect Coverage Results" MODIFIED="1563940817816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example01.coverage" NAME="example01 Coverage Results" MODIFIED="1575367124431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day61-65/hello-tornado" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example14.coverage" NAME="example14 Coverage Results" MODIFIED="1575014874161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1564201472175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$list2.coverage" NAME="list2 Coverage Results" MODIFIED="1564584685434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for7.coverage" NAME="for7 Coverage Results" MODIFIED="1563698581730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1563684895229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$socket4.coverage" NAME="socket4 Coverage Results" MODIFIED="1574247235663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1563940527642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example07.coverage" NAME="example07 Coverage Results" MODIFIED="1574939750814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$file1.coverage" NAME="file1 Coverage Results" MODIFIED="1573111314889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$gui2.coverage" NAME="gui2 Coverage Results" MODIFIED="1571828762666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1573110649876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$renju.coverage" NAME="renju Coverage Results" MODIFIED="1571842695152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$avgscore.coverage" NAME="avgscore Coverage Results" MODIFIED="1564191722165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$gui3.coverage" NAME="gui3 Coverage Results" MODIFIED="1571830017817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$hack.coverage" NAME="hack Coverage Results" MODIFIED="1565422792515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multithread4.coverage" NAME="multithread4 Coverage Results" MODIFIED="1573729748372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$pillow1.coverage" NAME="pillow1 Coverage Results" MODIFIED="1574258114547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day15" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example20.coverage" NAME="example20 Coverage Results" MODIFIED="1575023336997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$function5.coverage" NAME="function5 Coverage Results" MODIFIED="1564190719737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day06" />
+    <SUITE FILE_PATH="coverage/triangleDemo$singlethread1.coverage" NAME="singlethread1 Coverage Results" MODIFIED="1573732206995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$study.coverage" NAME="study Coverage Results" MODIFIED="1565440918455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$findmax.coverage" NAME="findmax Coverage Results" MODIFIED="1564201827011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day07" />
+    <SUITE FILE_PATH="coverage/triangleDemo$multiprocess2.coverage" NAME="multiprocess2 Coverage Results" MODIFIED="1573461025181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$variable3.coverage" NAME="variable3 Coverage Results" MODIFIED="1563675161146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+    <SUITE FILE_PATH="coverage/triangleDemo$mmdownloader.coverage" NAME="mmdownloader Coverage Results" MODIFIED="1574244319777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$function3.coverage" NAME="function3 Coverage Results" MODIFIED="1564188643978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day06" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example22.coverage" NAME="example22 Coverage Results" MODIFIED="1575029059126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day16-20" />
+    <SUITE FILE_PATH="coverage/triangleDemo$coroutine2.coverage" NAME="coroutine2 Coverage Results" MODIFIED="1573208931273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$excel2.coverage" NAME="excel2 Coverage Results" MODIFIED="1574257718721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day15" />
+    <SUITE FILE_PATH="coverage/triangleDemo$lily.coverage" NAME="lily Coverage Results" MODIFIED="1563940189863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$example05.coverage" NAME="example05 Coverage Results" MODIFIED="1575614952224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day66-75" />
+    <SUITE FILE_PATH="coverage/triangleDemo$rect.coverage" NAME="rect Coverage Results" MODIFIED="1565425816688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day08" />
+    <SUITE FILE_PATH="coverage/triangleDemo$socket1.coverage" NAME="socket1 Coverage Results" MODIFIED="1574246412692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$snake.coverage" NAME="snake Coverage Results" MODIFIED="1573109011128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$csv2.coverage" NAME="csv2 Coverage Results" MODIFIED="1573110095262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day11" />
+    <SUITE FILE_PATH="coverage/triangleDemo$table.coverage" NAME="table Coverage Results" MODIFIED="1564099075998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day05" />
+    <SUITE FILE_PATH="coverage/triangleDemo$for4.coverage" NAME="for4 Coverage Results" MODIFIED="1563689317102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day04" />
+    <SUITE FILE_PATH="coverage/triangleDemo$fileserver.coverage" NAME="fileserver Coverage Results" MODIFIED="1574242508694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1573801982235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$ball.coverage" NAME="ball Coverage Results" MODIFIED="1571819017337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day10" />
+    <SUITE FILE_PATH="coverage/triangleDemo$hello.coverage" NAME="hello Coverage Results" MODIFIED="1563589667398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day01" />
+    <SUITE FILE_PATH="coverage/triangleDemo$five_pointed_star.coverage" NAME="five_pointed_star Coverage Results" MODIFIED="1563624291284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day01" />
+    <SUITE FILE_PATH="coverage/triangleDemo$fileclient.coverage" NAME="fileclient Coverage Results" MODIFIED="1574239850900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/Day14" />
+    <SUITE FILE_PATH="coverage/triangleDemo$asyncio2.coverage" NAME="asyncio2 Coverage Results" MODIFIED="1573119796029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/python100days/day13" />
+    <SUITE FILE_PATH="coverage/triangleDemo$strings.coverage" NAME="strings Coverage Results" MODIFIED="1563674206460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/code/day02" />
+  </component>
+</project>
